@@ -1,0 +1,111 @@
+<resources>
+    <string name="app_name">Portfolio</string>
+    <string name="about"> Professional Summary:\n Innovative engineer skilled in ECE and software development, with expertise in Python, Java, Kotlin, and machine learning.\nAveraged in IoT, AI projects, and Android app development.
+    Experienced project leader with hands-on internship and project work.\n Averaged analytical skills in stock market analysis. Committed to continuous learning and creating impactful technological solutions.</string>
+    <!-- Strings used for fragments for navigation -->
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+
+    <string name="det_education"><![CDATA[
+EDUCATION:\n
+1. B. Tech ECE (AI Cybernetics)-VIT Bhopal University\n
+ GPA: 8.12/10.\n
+2. Class XII (CBSE)-RPS School Makanpur\n
+ GPA: 85.6%.\n
+3. Class X (CBSE)-S.A.M Secondary School\n
+ GPA: 88.6%.]]></string>
+
+    <string name="det_skill">
+    Skills:\n
+     ECE- Analog &amp; Digital Circuits, Electronic Devices, MATLAB(Basic).\n
+     CS- Python, Java, Kotlin, Room Database Library, DSA(Basic).\n
+     AI- Machine Learning, Deep Learning, Computer Vision, Neural Networks, AI Libraries.\n
+     IOT- RP Pico, Arduino Microcontroller (Basic).\n
+     Finance- Stock’s Fundamental &amp; Technical analyses.\n
+     App Dev- Android development Using Java &amp; Kotlin.</string>
+
+    <string name="det_experience">
+    EXPERIENCE:\n
+1. Intern, Bharat Heavy Electricals Limited\n
+ Project-Excitation System of AC Generators\n
+ Duration- 2 Month (Oct 23 to Nov 23)\n
+ Description- This project involved understanding and implementing various types of excitation systems to ensure reliable\n
+and efficient operation of power plant generators.\n
+ Key Responsibilities: Analyzed components and types of excitation systems, participated in the design and\n
+implementation and collaborated with senior engineers on advanced excitation system concepts.\n
+ Working Role- The Control Equipment Engineering (CEE) Department, assisting with engineering and\n
+implementation tasks, conducting research, and preparing reports.\n
+ Working Technology- Excitation Systems (DC, AC, Static), engineering tools, and simulation software.\n
+ Report Link https://drive.google.com/file/d/15OUD0_Hip1K8fTrEx77Xz1AsK3c_DU_j/view?usp=drive_link\n
+ Certificate Link- https://drive.google.com/file/d/1jI8tgP_cTIVLq9tM8Lgm7k19BWDTGDa3/view?usp=drive_link</string>
+
+
+    <string name="det_project">
+    PROJECTS:\n
+1. Bluetooth Controlled Robotic Vehicle (July 22– Oct-22)\n
+ Description- Developed an All-terrain robotic vehicle controlled via Bluetooth using a mobile app for directional\n
+movements and task execution.\n
+ Link- https://drive.google.com/file/d/1DbuBBzNcwjg7X43vDvSmVQ7VM7W3x9fw/view?usp=drive_link\n
+\n
+2. Solar Wireless Electric Vehicle Charging System (Dec 22 – Feb 23)\n
+ Description- Designed a solar-powered system for wireless electric vehicle charging.\n
+ Link- https://drive.google.com/file/d/19M1FZmD4t7ViNnPoWzz2MH-i4tArr3-6/view?usp=drive_link\n
+\n
+Details-\n
+ Technology: Semiconductor device-based circuit and IOT\n
+ Team Project: 4 members\n
+ Role: As a Circuit Designer and As a Team Leader\n
+\n
+3. AI Chat Bot Project (Luna) (Jun 23 – Jun 23)\n
+ Description: Developed a chatbot that integrates Gemini API for generating responses fetches thelatest news, and\n
+provides a music playlist\n
+ Link- https://drive.google.com/file/d/18N6_rIu8r1PftSGIor2ZZVPMq5VcJiDm/view?usp=drive_link\n
+Details-\n
+ Technology: Python, Gemini API, News API, RESTful APIs\n
+ Role: Lead Developer, responsible for integrating APIs, writing the main script</string>
+
+    <string name="det_cert">
+COURSE CERTIFICATE:\n
+1. Machine Learning with Python- https://drive.google.com/file/d/1ILBt-bDQi0me4efHxdkR-cCPgGwLcuXX/view\n
+2. Deep Learning &amp; Neural Networks with Keras-https://drive.google.com/file/d/1b1CbwfQxQnwPPZqsAzx8fUoG5Z_KkBIF/view\n
+3. Computer Vision and Image Processing- https://drive.google.com/file/d/11J61vTGntgzLpH05DK-ZG056yWCxaFcV/view\n
+4. Deep Neural Networks with PyTorch-https://drive.google.com/file/d/1LuduuXH9gNimboCO9LTECLTtcnqIxByr/view\n
+5. Deep Learning Models with TensorFlow-https://drive.google.com/file/d/1drDRdkEjlB25JHw71IZ7ByRMAz6gRO_c/view\n
+6. Java for Android-https://drive.google.com/file/d/1YaKJ4GQYqSINvVaE5y6TT6rNbhHM1395/view</string>
+
+    <string name="det_detail">
+ ADDITIONAL DETAIL:\n
+1. Profession- Engineer\n
+2. Roles And Responsibilities-\n
+ Team Leader for project work.\n
+ Program Coordinator in School\'s cultural Fest.\n
+3. Extracurricular-\n
+ Awareness about many geopolitical views &amp; Civics.\n
+4. Hobbies-\n
+ Geographical and Political News Reading\n
+ Cycling, Planting, Playing Games.\n
+5. Languages- Hindi, English </string>
+    <string name="title_activity_menu">Menu</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+
+    <string name="head_edu">Education</string>
+    <string name="head_skill">Skills</string>
+    <string name="head_exp">Industrial Experience</string>
+    <string name="head_proj">Projects</string>
+    <string name="head_cert">Certificates</string>
+    <string name="head_about">more about me</string>
+
+
+
+
+
+
+</resources>

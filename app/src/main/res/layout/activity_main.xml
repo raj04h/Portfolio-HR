@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/Heading"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="4dp"
+        android:background="#DCC6A4"
+        android:fontFamily="@font/barrio"
+        android:padding="15dp"
+        android:text="About HR"
+        android:textAlignment="center"
+        android:textColor="@color/black"
+        android:textIsSelectable="true"
+        android:textSize="20sp"
+        android:textStyle="bold" />
+
+
+    <ImageView
+        android:id="@+id/pic"
+        android:layout_width="wrap_content"
+        android:layout_height="342dp"
+        android:layout_margin="20dp"
+        android:requiresFadingEdge="horizontal|vertical"
+        android:src="@drawable/me" />
+
+    <TextView
+        android:id="@+id/name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="5dp"
+        android:text="HIMANSHU RAJ"
+        android:textAlignment="center"
+        android:textColor="#FF5722"
+        android:textSize="30sp"
+        android:textStyle="bold|italic" />
+
+    <TextView
+        android:id="@+id/about"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:fontFamily="cursive"
+        android:padding="5dp"
+        android:text="@string/about"
+        android:textSize="20sp" />
+
+    <Button
+        android:id="@+id/btn_next"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="5dp"
+        android:text="Next" />
+
+</LinearLayout>

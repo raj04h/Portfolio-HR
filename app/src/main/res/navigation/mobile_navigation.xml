@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@id/nav_education">
+
+    <fragment
+        android:id="@+id/nav_education"
+        android:name="com.HR.portfolio.ui.education.EducationFragment"
+        android:label="@string/head_edu"
+        tools:layout="@layout/fragment_education" />
+
+    <fragment
+        android:id="@+id/nav_skill"
+        android:name="com.HR.portfolio.ui.skills.SkillFragment"
+        android:label="@string/head_skill"
+        tools:layout="@layout/fragment_skills" />
+
+    <fragment
+        android:id="@+id/nav_experience"
+        android:name="com.HR.portfolio.ui.experience.ExperienceFragment"
+        android:label="@string/head_exp"
+        tools:layout="@layout/fragment_experience" />
+
+    <fragment
+        android:id="@+id/nav_project"
+        android:name="com.HR.portfolio.ui.projects.ProjectFragment"
+        android:label="@string/head_proj"
+        tools:layout="@layout/fragment_proj" />
+    <fragment
+        android:id="@+id/nav_certificate"
+        android:name="com.HR.portfolio.ui.certificates.CertFragment"
+        android:label="@string/head_cert"
+        tools:layout="@layout/fragment_cert" />
+
+    <fragment
+        android:id="@+id/nav_details"
+        android:name="com.HR.portfolio.ui.details.DetailsFragment"
+        android:label="@string/head_about"
+        tools:layout="@layout/fragment_detail" />
+</navigation>
