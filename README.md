@@ -83,4 +83,4 @@ Feel free to reach out for collaborations or opportunities!
 
 ---
 
-Copyright © 2024. Built with ❤️ by [Your Name].
+Copyright © 2024. Built with ❤️ by [Himanshu Raj].
