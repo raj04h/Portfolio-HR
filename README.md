@@ -49,11 +49,9 @@ com.HR.portfolio
 
 ## 📸 Screenshots
 
-| Dashboard | Projects | Experience |
-| :---: | :---: | :---: |
-| ![Dashboard](https://via.placeholder.com/200x400?text=Dashboard) | ![Projects](https://via.placeholder.com/200x400?text=Projects) | ![Experience](https://via.placeholder.com/200x400?text=Experience) |
-
-*(Note: Replace placeholders with actual app screenshots)*
+| Dashboard | Projects |
+| :---: | :---: |
+| <img width="141" height="285" alt="image" src="https://github.com/user-attachments/assets/21b7177b-e60d-40b3-a709-a1aec3d74813" /> | <img width="118" height="236" alt="image" src="https://github.com/user-attachments/assets/1fad4195-84b8-4b38-9da7-1722d0c7694c" />
 
 ---
 
@@ -67,7 +65,7 @@ com.HR.portfolio
 ### Installation
 1.  Clone the repository:
     ```bash
-    git clone https://github.com/YOUR_USERNAME/Portfolio.git
+    git clone https://github.com/raj04h/Portfolio-HR.git
     ```
 2.  Open the project in **Android Studio**.
 3.  Let the Gradle sync complete.
@@ -79,9 +77,9 @@ com.HR.portfolio
 
 Feel free to reach out for collaborations or opportunities!
 
-*   **LinkedIn**: [Your Name](https://linkedin.com/in/yourprofile)
-*   **Email**: your.email@example.com
-*   **Portfolio Site**: [yourportfolio.com](https://yourportfolio.com)
+*   **LinkedIn**: [Your Name](https://linkedin.com/in/raj04h)
+*   **Email**: himanshuraj.hr9934@gmail.com
+*   **Portfolio Site**: [yourportfolio.com]([https://yourportfolio.com](https://sites.google.com/view/raj04h)
 
 ---
 
